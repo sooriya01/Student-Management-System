@@ -10,7 +10,6 @@ import Marks from "./Pages/Marks";
 
 function App() {
   return (
-    <BrowserRouter>
 
       <Routes>
 
@@ -29,8 +28,7 @@ function App() {
         </Route>
 
       </Routes>
-
-    </BrowserRouter>
+      
   );
 }
 
