@@ -70,7 +70,6 @@ button {
   box-shadow: 0 3px 10px rgba(85, 92, 255, 0.12);
 }
 
-/* Icon Hover */
 .menu-item:hover i {
   transform: scale(1.15);
 }
